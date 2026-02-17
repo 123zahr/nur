@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Nur Ramadan Planner",
+  "description": "A comprehensive digital companion for Ramadan featuring daily prayer trackers, Quran recitation logs, health goals, and AI-powered memory image editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
